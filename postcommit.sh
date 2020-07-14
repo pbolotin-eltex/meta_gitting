@@ -1,0 +1,1 @@
+mv meta_gitting/_git meta_gitting/.git
