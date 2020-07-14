@@ -1,2 +1,3 @@
 0000000000000000000000000000000000000000 ec2d8804000a11528d1529bbebbbfe5051c0a5b4 pbolotin <pbolotin-eltex@gmail.com> 1594702578 +0700	branch: Created from HEAD
 ec2d8804000a11528d1529bbebbbfe5051c0a5b4 770b33fc191a02ed631266ecfdc125a5c89003a6 pbolotin <pbolotin-eltex@gmail.com> 1594703033 +0700	commit: Add test_02 into test_branch
+770b33fc191a02ed631266ecfdc125a5c89003a6 05db67c3715286943166959c229ea46ab2a677c5 pbolotin <pbolotin-eltex@gmail.com> 1594703342 +0700	commit: Some change in test_02
