@@ -1,0 +1,18 @@
+What if we will use Git for project with Git?
+
+1. We can have different levels and approaches for history:
+    1.1. Meta level, that can be high leveled, linear and
+         has some of features of a squash-commiting approach.
+    1.2. Under level, traditional git, with many branches and 
+         detailed commits if we want those.
+
+2. We can see how git works on meta level git using.
+   That can give us new level of understanding of movement of project.
+   And as well as it has great opportunity for learning git through meta level.
+    
+3. We can have more brave for a git experimentation
+   trying different approaches.
+
+P.S. Maybe it is just another stupid idea,
+     but evolution can accept this branch
+     for best results in the future, isn't?
